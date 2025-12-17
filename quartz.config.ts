@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "ko-KR",
     baseUrl: "beadskode.github.io/blog",
-    ignorePatterns: ["Temp", "private", "templates", ".obsidian"],
+    ignorePatterns: ["_Temp", "private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
